@@ -1,1 +1,2 @@
-# MART341-WebDesign
+# Sarah Sprouse MART341-WebDesign
+This week we learned about directories and files and how to create a repository in Github. We also learned the difference between file type and the appropriate way to use each type. We learned the importance of documentation and how to do so via VCS and directories. I was surprised by how inherently organized web design is and glad to understand these organization structures. Though I am still slowly learning, I feel less overwhwlmed thanks to these structures! 
