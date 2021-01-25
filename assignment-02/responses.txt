@@ -1,0 +1,14 @@
+How is the world wide web different than the internet?
+The internet is the network of connections the web works on. The world wide web, or just the web, is the pages you use and see on your computer. Both are connected. 
+
+Briefly describe how the internet works.
+The internet is a series of network connections and the backbone of the web. We use the internet to communicate via the web. 
+
+What is a directory, and what is its relationship to files?
+A directory is an organization container of files. It provides structure and clear ordering of files so that you can have easier access to your files.
+
+How will VCS benefit you?
+A VCS allows you to track changes over time and have a quick access to a timeline of your work. This is how most web developers track their changes. Learning to use VCS sooner will allow us to stay organized and current. 
+
+What is your favorite kind of art?
+Textiles from the modern art movement are my favorite types of art. Though anything from the Bauhouse movement draws my eye and inspires me. 
