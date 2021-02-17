@@ -1,3 +1,3 @@
 Using the Wayback Maching website I visited the New York Times archived website. The website was kind of what I expected - It was clunky and had block text and images. Though the user experince is clunky, it still works. I like that the website mostly focused on what the newspaper was featuring on that particular day - highlighting a picture of the daily newspaper and its headlines.
 I have really enjoyed learning about html these last few weeks. It is tricky for me to remember all of the right steps. I find myself regularly checking previous modules on the course website to guide me back through the various homework steps. Embedding an image has been especially tricky.
-![Images](./Images/ScreenShot.png
+![ScreenShot](./Images/ScreenShot.png
