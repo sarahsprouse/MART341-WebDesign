@@ -1,0 +1,40 @@
+body {
+  font-family: 'Karla', sans-serif;
+  margin: auto;
+    width:50%;
+    padding: 50px;
+
+}
+.Heading {
+  text-align: center;
+}
+h1{
+  font-family: 'Spectral', 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 20pt;
+  width: 80%;
+  margin: auto;
+}
+.opening-paragraph {
+  font-style: italic;
+  font-size: 14pt
+}
+.second-paragraph p::first-letter {
+  color: lightblue;
+  font-size: 20pt;
+  font-family: 'Spectral';
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Spectral', 'Times New Roman', serif;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+  font-weight: bolder;
+}
+a:visited {
+  color: gray;
+}
