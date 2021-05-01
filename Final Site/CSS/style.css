@@ -1,0 +1,168 @@
+body {
+  font-family: 'Karla', sans-serif;
+  margin: auto;
+    width:50%;
+    padding: 50px;
+
+}
+.secondary-container {
+  float: center;
+  content:url("../Images/ceramics1.png");
+  height: 60%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: auto;
+padding: 3px;
+}
+.third-container {
+  float: center;
+  content:url("../Images/ceramics2.png");
+  height: 60%;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: auto;
+padding: 3px;
+
+}
+
+.menu-item {
+    display: inline-block;
+    margin: 1em .2em;
+    min-width: 6em;
+    text-align: center;
+    background-color: gold;
+    padding: 0.5em 1em;
+}
+
+.menu-item a {
+    color: White;
+    text-decoration: none;
+}
+
+.menu-item:hover {
+    background-color: #FF6700;
+
+}
+
+.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    border: 1px solid #000;
+    margin: 0.5em 0 0 -3em;
+    color: #000;
+    background-color: White;
+    z-index: 1;
+}
+.dropdown-content a {
+    color: White;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: black;
+    background-color: #FFA500;
+}
+.Heading {
+  text-align: center;
+}
+h1{
+  font-family: 'Spectral', 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 20pt;
+  width: 80%;
+  margin: auto;
+}
+.opening-paragraph {
+  font-size: 14pt
+}
+.second-paragraph p::first-letter {
+  color: lightblue;
+  font-size: 20pt;
+  font-family: 'Spectral';
+  font-style: italic;
+}
+.third-paragraph {
+  font-style: italic;
+  font-size: 12pt;
+  font-family: 'Spectral';
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Spectral', 'Times New Roman', serif;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+  font-weight: bolder;
+}
+a:visited {
+  color: gray;
+}
+.mainimage{
+    float: center;
+    image-orientation: center;
+
+}
+
+@media only screen and (min-width: 600px) {
+    .mainimage{
+        content:url("../Images/shapes.jpg");
+        height: 60%;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    }
+}
+.secondimage{
+    float:center;
+    content:url("../Images/selfportrait.jpg");
+}
+
+@media only screen and (min-width: 600px) {
+    .secondimage{
+        float:center;
+        content:url("../Images/selfportrait.jpg");
+        height: 60%;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+    }
+}
+.thirdimage{
+    float: center;
+    content:url("../Images/bytheclarkfork.jpg");
+    height: 60%;
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: fixed;
+padding: 3px;
+}
+
+@media only screen and (min-width: 600px) {
+    .thirdimage{
+        margin: auto;
+        content:url("../Images/bytheclarkfork.jpg");
+    }
